@@ -15,7 +15,7 @@ models/*.pkl
 
 # Data (raw data often not committed)
 data/raw/*.csv
-data/processed/*.csv
+# data/processed/*.csv
 
 # Node / React
 frontend/node_modules/
